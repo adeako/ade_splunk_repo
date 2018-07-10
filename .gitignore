@@ -3,6 +3,4 @@
 *.tgz
 *.gz
 *
-!deployment-apps/*
 system/*
-!system/local
